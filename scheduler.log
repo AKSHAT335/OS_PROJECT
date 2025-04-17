@@ -1,0 +1,1020 @@
+2025-04-09 20:44:57,263 - INFO - AIScheduler initialized with variance_threshold=10.00, process_count_threshold=5, priority_weight=0.50
+2025-04-09 21:00:42,033 - INFO - AIScheduler initialized with variance_threshold=10.00, process_count_threshold=5, priority_weight=0.50
+2025-04-09 21:05:04,291 - INFO - AIScheduler initialized with variance_threshold=10.00, process_count_threshold=5, priority_weight=0.50
+2025-04-09 21:05:59,686 - INFO - AIScheduler initialized with variance_threshold=10.00, process_count_threshold=5, priority_weight=0.50
+2025-04-09 21:06:30,088 - DEBUG - Process analysis: {'burst_variance': 6.553571428571429, 'avg_priority': 1.625, 'avg_burst': 6.625, 'count': 8}
+2025-04-09 21:06:30,089 - INFO - Selected MLFQ as default for balanced scheduling
+2025-04-09 21:07:01,165 - DEBUG - Loaded backend tkagg version 8.6.
+2025-04-09 21:07:01,380 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,381 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,381 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,382 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,382 - DEBUG - STREAM b'IDAT' 78 1189
+2025-04-09 21:07:01,395 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,395 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,396 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,396 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,396 - DEBUG - STREAM b'IDAT' 78 2994
+2025-04-09 21:07:01,429 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,430 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,430 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,431 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,431 - DEBUG - STREAM b'IDAT' 78 374
+2025-04-09 21:07:01,437 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,438 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,439 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,439 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,440 - DEBUG - STREAM b'IDAT' 78 286
+2025-04-09 21:07:01,444 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,445 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,445 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,446 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,447 - DEBUG - STREAM b'IDAT' 78 263
+2025-04-09 21:07:01,452 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,452 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,452 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,453 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,453 - DEBUG - STREAM b'IDAT' 78 387
+2025-04-09 21:07:01,458 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,459 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,460 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,460 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,461 - DEBUG - STREAM b'IDAT' 78 436
+2025-04-09 21:07:01,465 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,465 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,466 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,466 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,466 - DEBUG - STREAM b'IDAT' 78 351
+2025-04-09 21:07:01,470 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:01,471 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:01,471 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:01,471 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:01,472 - DEBUG - STREAM b'IDAT' 78 364
+2025-04-09 21:07:01,482 - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2025-04-09 21:07:01,483 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2025-04-09 21:07:01,484 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,484 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2025-04-09 21:07:01,485 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,486 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,487 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,487 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,488 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,491 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2025-04-09 21:07:01,493 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,494 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,494 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,495 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,495 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,496 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,497 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,498 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,498 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,499 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,499 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,500 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,501 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,501 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,502 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,502 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,504 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,505 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,506 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,507 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,508 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,509 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,510 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,510 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,511 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2025-04-09 21:07:01,512 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,512 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,514 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,514 - DEBUG - findfont: score(FontEntry(fname='C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,515 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MOD20.TTF', name='Modern No. 20', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,516 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibrili.ttf', name='Calibri', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-04-09 21:07:01,516 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCBI____.TTF', name='Tw Cen MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,517 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,517 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALISTI.TTF', name='Calisto MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,518 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PLAYBILL.TTF', name='Playbill', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,518 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibril.ttf', name='Calibri', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,519 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cour.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,520 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comicbd.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,520 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\times.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,521 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HARLOWSI.TTF', name='Harlow Solid Italic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,521 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoesc.ttf', name='Segoe Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,521 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKB.TTF', name='Rockwell', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,522 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRLNSDB.TTF', name='Berlin Sans FB Demi', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,522 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDOS.TTF', name='Goudy Old Style', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,523 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\REFSAN.TTF', name='MS Reference Sans Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,524 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAXDI.TTF', name='Lucida Fax', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-04-09 21:07:01,524 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCHLBKBI.TTF', name='Century Schoolbook', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,525 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MTEXTRA.TTF', name='MT Extra', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,526 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BELLB.TTF', name='Bell MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,526 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALNB.TTF', name='Arial', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 6.8986363636363635
+2025-04-09 21:07:01,527 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCHLBKB.TTF', name='Century Schoolbook', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,527 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuisl.ttf', name='Segoe UI', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2025-04-09 21:07:01,528 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SitkaVF-Italic.ttf', name='Sitka', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,528 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASBD.TTF', name='Eras Bold ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,529 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\gadugi.ttf', name='Gadugi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,529 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BERNHC.TTF', name='Bernard MT Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,530 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GLSNECB.TTF', name='Gill Sans MT Ext Condensed Bold', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,530 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILSANUB.TTF', name='Gill Sans Ultra Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,531 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ELEPHNTI.TTF', name='Elephant', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,531 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\IMPRISHA.TTF', name='Imprint MT Shadow', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,532 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHICI.TTF', name='Century Gothic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,532 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FELIXTI.TTF', name='Felix Titling', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,533 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CR.TTF', name='Bodoni MT', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,534 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDOSI.TTF', name='Goudy Old Style', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,534 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCRIPTBL.TTF', name='Script MT Bold', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,535 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRAHV.TTF', name='Franklin Gothic Heavy', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,535 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GARA.TTF', name='Garamond', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,536 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TEMPSITC.TTF', name='Tempus Sans ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,537 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothR.ttc', name='Yu Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,538 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyhl.ttc', name='Microsoft YaHei', style='normal', variant='normal', weight=290, stretch='normal', size='scalable')) = 10.1545
+2025-04-09 21:07:01,538 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebucbi.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,539 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCCEB.TTF', name='Tw Cen MT Condensed Extra Bold', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,540 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHIC.TTF', name='Century Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,540 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ALGER.TTF', name='Algerian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,541 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\symbol.ttf', name='Symbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,541 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKI.TTF', name='Rockwell', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,541 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comicz.ttf', name='Comic Sans MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,542 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASMD.TTF', name='Eras Medium ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,542 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mmrtext.ttf', name='Myanmar Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,542 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILLUBCD.TTF', name='Gill Sans Ultra Bold Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,543 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COLONNA.TTF', name='Colonna MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,544 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candarali.ttf', name='Candara', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,544 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BAUHS93.TTF', name='Bauhaus 93', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,545 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constanz.ttf', name='Constantia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,545 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PRISTINA.TTF', name='Pristina', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,545 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\framdit.ttf', name='Franklin Gothic Medium', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,546 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASLGHT.TTF', name='Eras Light ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,547 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\REFSPCL.TTF', name='MS Reference Specialty', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,547 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consolaz.ttf', name='Consolas', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,548 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANSD.TTF', name='Lucida Sans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-04-09 21:07:01,548 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BASKVILL.TTF', name='Baskerville Old Face', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,549 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALNBI.TTF', name='Arial', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 7.8986363636363635
+2025-04-09 21:07:01,549 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FORTE.TTF', name='Forte', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,550 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candara.ttf', name='Candara', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,550 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebucit.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,551 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuiz.ttf', name='Segoe UI', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,551 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BROADW.TTF', name='Broadway', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,551 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mmrtextb.ttf', name='Myanmar Text', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,552 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NirmalaS.ttf', name='Nirmala UI', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2025-04-09 21:07:01,553 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambriai.ttf', name='Cambria', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,553 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COPRGTB.TTF', name='Copperplate Gothic Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,554 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ITCEDSCR.TTF', name='Edwardian Script ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,555 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbeli.ttf', name='Corbel', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,555 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MAIAN.TTF', name='Maiandra GD', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,556 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mvboli.ttf', name='MV Boli', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,557 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRAHVIT.TTF', name='Franklin Gothic Heavy', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,557 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILB____.TTF', name='Gill Sans MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,558 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANS.TTF', name='Lucida Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,559 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\l_10646.ttf', name='Lucida Sans Unicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,560 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdanab.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+2025-04-09 21:07:01,561 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPE.TTF', name='Lucida Sans Typewriter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,561 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CENTAUR.TTF', name='Centaur', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,561 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BSSYM7.TTF', name='Bookshelf Symbol 7', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,562 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\tahoma.ttf', name='Tahoma', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,562 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRABKIT.TTF', name='Franklin Gothic Book', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,563 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguibl.ttf', name='Segoe UI', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2025-04-09 21:07:01,564 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoepr.ttf', name='Segoe Print', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,564 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITEI.TTF', name='Lucida Bright', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,564 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibriz.ttf', name='Calibri', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,564 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\malgunsl.ttf', name='Malgun Gothic', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,565 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ELEPHNT.TTF', name='Elephant', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,565 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRUSHSCI.TTF', name='Brush Script MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,566 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibrib.ttf', name='Calibri', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,566 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeui.ttf', name='Segoe UI', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,567 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COOPBL.TTF', name='Cooper Black', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,567 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ITCBLKAD.TTF', name='Blackadder ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,568 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\gadugib.ttf', name='Gadugi', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,568 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LeelUIsl.ttf', name='Leelawadee UI', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2025-04-09 21:07:01,569 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2025-04-09 21:07:01,569 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PAPYRUS.TTF', name='Papyrus', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,570 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\palai.ttf', name='Palatino Linotype', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,570 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\KUNSTLER.TTF', name='Kunstler Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,570 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\simsunb.ttf', name='SimSun-ExtB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,571 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candarab.ttf', name='Candara', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,572 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NirmalaB.ttf', name='Nirmala UI', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,572 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRLNSB.TTF', name='Berlin Sans FB', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,573 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MATURASC.TTF', name='Matura MT Script Capitals', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,574 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDYSTO.TTF', name='Goudy Stout', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,575 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\JOKERMAN.TTF', name='Jokerman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,575 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\monbaiti.ttf', name='Mongolian Baiti', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,576 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERTIBD.TTF', name='Perpetua Titling MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,576 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_BLAI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2025-04-09 21:07:01,576 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguibli.ttf', name='Segoe UI', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2025-04-09 21:07:01,577 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALN.TTF', name='Arial', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 6.613636363636363
+2025-04-09 21:07:01,578 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothM.ttc', name='Yu Gothic', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,578 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\phagspa.ttf', name='Microsoft PhagsPa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,578 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguihis.ttf', name='Segoe UI Historic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,579 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consolab.ttf', name='Consolas', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,579 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\AGENCYB.TTF', name='Agency FB', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,580 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambria.ttc', name='Cambria', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,580 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segmdl2.ttf', name='Segoe MDL2 Assets', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,581 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIFB.TTF', name='Californian FB', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,581 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\simsun.ttc', name='SimSun', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,581 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-LIGHT.TTF', name='Dubai', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,582 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSBI.TTF', name='Bookman Old Style', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-04-09 21:07:01,582 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\WINGDNG2.TTF', name='Wingdings 2', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,583 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibrii.ttf', name='Calibri', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,583 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\arialbd.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+2025-04-09 21:07:01,584 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msjhbd.ttc', name='Microsoft JhengHei', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,584 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_BLAR.TTF', name='Bodoni MT', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2025-04-09 21:07:01,584 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CURLZ___.TTF', name='Curlz MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,584 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRADM.TTF', name='Franklin Gothic Demi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,585 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCMI____.TTF', name='Tw Cen MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,585 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\javatext.ttf', name='Javanese Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,585 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIFI.TTF', name='Californian FB', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,586 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ANTQUAB.TTF', name='Book Antiqua', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,586 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\taile.ttf', name='Microsoft Tai Le', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,587 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbelz.ttf', name='Corbel', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,587 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CASTELAR.TTF', name='Castellar', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,587 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCHLBKI.TTF', name='Century Schoolbook', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,588 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSB.TTF', name='Bookman Old Style', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-04-09 21:07:01,588 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FREESCPT.TTF', name='Freestyle Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,588 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALNI.TTF', name='Arial', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 7.613636363636363
+2025-04-09 21:07:01,589 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BKANT.TTF', name='Book Antiqua', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,589 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILI____.TTF', name='Gill Sans MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,589 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msjh.ttc', name='Microsoft JhengHei', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,589 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CENSCBK.TTF', name='Century Schoolbook', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,590 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msgothic.ttc', name='MS Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,590 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ONYX.TTF', name='Onyx', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,590 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\arialbi.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+2025-04-09 21:07:01,591 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ariali.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+2025-04-09 21:07:01,591 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PER_____.TTF', name='Perpetua', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,591 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\RAVIE.TTF', name='Ravie', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,591 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NIAGENG.TTF', name='Niagara Engraved', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,592 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CHILLER.TTF', name='Chiller', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,592 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambriab.ttf', name='Cambria', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,592 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHICB.TTF', name='Century Gothic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,593 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FTLTLT.TTF', name='Footlight MT Light', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,593 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_PSTC.TTF', name='Bodoni MT', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,594 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\holomdl2.ttf', name='HoloLens MDL2 Assets', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,594 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+2025-04-09 21:07:01,595 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\micross.ttf', name='Microsoft Sans Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,595 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MISTRAL.TTF', name='Mistral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,596 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\courbi.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,596 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgiai.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,596 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERBI___.TTF', name='Perpetua', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,596 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msjhl.ttc', name='Microsoft JhengHei', style='normal', variant='normal', weight=290, stretch='normal', size='scalable')) = 10.1545
+2025-04-09 21:07:01,597 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\phagspab.ttf', name='Microsoft PhagsPa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,597 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\timesbi.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,598 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consola.ttf', name='Consolas', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,598 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPEO.TTF', name='Lucida Sans Typewriter', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,598 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-MEDIUM.TTF', name='Dubai', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,598 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\INFROMAN.TTF', name='Informal Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,599 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ariblk.ttf', name='Arial', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 6.888636363636364
+2025-04-09 21:07:01,599 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILBI___.TTF', name='Gill Sans MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,599 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRITANIC.TTF', name='Britannic Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,600 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASDEMI.TTF', name='Eras Demi ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,600 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ITCKRIST.TTF', name='Kristen ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,600 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HTOWERT.TTF', name='High Tower Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,601 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ntailu.ttf', name='Microsoft New Tai Lue', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,601 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\OLDENGL.TTF', name='Old English Text MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,602 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\OUTLOOK.TTF', name='MS Outlook', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,602 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRLNSR.TTF', name='Berlin Sans FB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,603 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consolai.ttf', name='Consolas', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,603 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdanai.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+2025-04-09 21:07:01,603 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\palab.ttf', name='Palatino Linotype', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,604 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_BI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,604 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCK.TTF', name='Rockwell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,605 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ntailub.ttf', name='Microsoft New Tai Lue', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,605 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRADHITC.TTF', name='Bradley Hand ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,606 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\timesi.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,606 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdanaz.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+2025-04-09 21:07:01,607 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALISTB.TTF', name='Calisto MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,607 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_I.TTF', name='Bodoni MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,608 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRAMDCN.TTF', name='Franklin Gothic Medium Cond', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,608 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SegUIVar.ttf', name='Segoe UI Variable', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,608 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SNAP____.TTF', name='Snap ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,609 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARLRDBD.TTF', name='Arial Rounded MT Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,609 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\STENCIL.TTF', name='Stencil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,609 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\lucon.ttf', name='Lucida Console', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,610 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANSI.TTF', name='Lucida Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,611 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GARABD.TTF', name='Garamond', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,612 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PALSCRI.TTF', name='Palace Script MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,613 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Nirmala.ttf', name='Nirmala UI', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,613 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAX.TTF', name='Lucida Fax', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,614 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\palabi.ttf', name='Palatino Linotype', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,614 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuib.ttf', name='Segoe UI', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,615 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-BOLD.TTF', name='Dubai', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,615 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRSCRIPT.TTF', name='French Script MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,616 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MAGNETOB.TTF', name='Magneto', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,617 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIFR.TTF', name='Californian FB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,617 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CBI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2025-04-09 21:07:01,618 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\framd.ttf', name='Franklin Gothic Medium', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,618 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\AGENCYR.TTF', name='Agency FB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,618 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANSDI.TTF', name='Lucida Sans', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-04-09 21:07:01,619 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LeelawUI.ttf', name='Leelawadee UI', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,619 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LATINWD.TTF', name='Wide Latin', style='normal', variant='normal', weight=400, stretch='expanded', size='scalable')) = 10.25
+2025-04-09 21:07:01,619 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\malgun.ttf', name='Malgun Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,620 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILC____.TTF', name='Gill Sans MT Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,620 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyhbd.ttc', name='Microsoft YaHei', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,620 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothL.ttc', name='Yu Gothic', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,621 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\pala.ttf', name='Palatino Linotype', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,621 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\VIVALDII.TTF', name='Vivaldi', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,622 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ANTQUABI.TTF', name='Book Antiqua', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,622 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LHANDW.TTF', name='Lucida Handwriting', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,623 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\JUICE___.TTF', name='Juice ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,623 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERB____.TTF', name='Perpetua', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,624 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BELLI.TTF', name='Bell MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,625 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BELL.TTF', name='Bell MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,625 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SansSerifCollection.ttf', name='Sans Serif Collection', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,625 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeprb.ttf', name='Segoe Print', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,626 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NIAGSOL.TTF', name='Niagara Solid', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,626 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAXI.TTF', name='Lucida Fax', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,627 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Gabriola.ttf', name='Gabriola', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,627 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candaraz.ttf', name='Candara', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,627 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\wingding.ttf', name='Wingdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,628 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDOSB.TTF', name='Goudy Old Style', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,628 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constanb.ttf', name='Constantia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,628 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCB_____.TTF', name='Tw Cen MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,629 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comic.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,629 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAXD.TTF', name='Lucida Fax', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-04-09 21:07:01,630 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebucbd.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,630 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CENTURY.TTF', name='Century', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,631 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SegoeIcons.ttf', name='Segoe Fluent Icons', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,631 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,631 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GIL_____.TTF', name='Gill Sans MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,631 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SitkaVF.ttf', name='Sitka', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,632 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\timesbd.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,632 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbelb.ttf', name='Corbel', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,632 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgiaz.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,633 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisli.ttf', name='Segoe UI', style='italic', variant='normal', weight=350, stretch='normal', size='scalable')) = 11.0975
+2025-04-09 21:07:01,633 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCCM____.TTF', name='Tw Cen MT Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,634 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibri.ttf', name='Calibri', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,634 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoescb.ttf', name='Segoe Script', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,635 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyh.ttc', name='Microsoft YaHei', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,636 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\bahnschrift.ttf', name='Bahnschrift', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,636 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOS.TTF', name='Bookman Old Style', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,637 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\sylfaen.ttf', name='Sylfaen', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,637 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPEBO.TTF', name='Lucida Sans Typewriter', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-04-09 21:07:01,638 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbelli.ttf', name='Corbel', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-04-09 21:07:01,638 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HTOWERTI.TTF', name='High Tower Text', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,639 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCCB___.TTF', name='Rockwell Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2025-04-09 21:07:01,639 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\couri.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,640 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ebrimabd.ttf', name='Ebrima', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,641 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisbi.ttf', name='Segoe UI', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-04-09 21:07:01,641 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisb.ttf', name='Segoe UI', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-04-09 21:07:01,642 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgiab.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,642 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MTCORSVA.TTF', name='Monotype Corsiva', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,643 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITED.TTF', name='Lucida Bright', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-04-09 21:07:01,643 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_R.TTF', name='Bodoni MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,643 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\taileb.ttf', name='Microsoft Tai Le', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,643 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candarai.ttf', name='Candara', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,644 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constan.ttf', name='Constantia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,645 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITEDI.TTF', name='Lucida Bright', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-04-09 21:07:01,645 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mingliub.ttc', name='MingLiU-ExtB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,645 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_B.TTF', name='Bodoni MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,646 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRADMCN.TTF', name='Franklin Gothic Demi Cond', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,646 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCM_____.TTF', name='Tw Cen MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,647 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\VLADIMIR.TTF', name='Vladimir Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,647 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-REGULAR.TTF', name='Dubai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,647 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRADMIT.TTF', name='Franklin Gothic Demi', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,648 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candaral.ttf', name='Candara', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,648 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERTILI.TTF', name='Perpetua Titling MT', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,649 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comici.ttf', name='Comic Sans MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,649 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ANTQUAI.TTF', name='Book Antiqua', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,650 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothB.ttc', name='Yu Gothic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,650 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHICBI.TTF', name='Century Gothic', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,651 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HATTEN.TTF', name='Haettenschweiler', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,651 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Inkfree.ttf', name='Ink Free', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,652 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ebrima.ttf', name='Ebrima', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,652 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCC____.TTF', name='Rockwell Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,652 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LeelaUIb.ttf', name='Leelawadee UI', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,653 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\WINGDNG3.TTF', name='Wingdings 3', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,653 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCCB____.TTF', name='Tw Cen MT Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2025-04-09 21:07:01,654 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CB.TTF', name='Bodoni MT', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2025-04-09 21:07:01,654 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LCALLIG.TTF', name='Lucida Calligraphy', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,654 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PARCHM.TTF', name='Parchment', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,655 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERI____.TTF', name='Perpetua', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,655 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyi.ttf', name='Microsoft Yi Baiti', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,656 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALISTBI.TTF', name='Calisto MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,656 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HARNGTON.TTF', name='Harrington', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,657 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\himalaya.ttf', name='Microsoft Himalaya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,657 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,657 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SimsunExtG.ttf', name='SimSun-ExtG', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,658 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbell.ttf', name='Corbel', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,658 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+2025-04-09 21:07:01,658 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPEB.TTF', name='Lucida Sans Typewriter', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-04-09 21:07:01,659 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguili.ttf', name='Segoe UI', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-04-09 21:07:01,659 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\VINERITC.TTF', name='Viner Hand ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,660 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SHOWG.TTF', name='Showcard Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,660 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKEB.TTF', name='Rockwell Extra Bold', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+2025-04-09 21:07:01,660 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GARAIT.TTF', name='Garamond', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,661 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITE.TTF', name='Lucida Bright', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,661 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKBI.TTF', name='Rockwell', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,662 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisym.ttf', name='Segoe UI Symbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,662 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\OCRAEXT.TTF', name='OCR A Extended', style='normal', variant='normal', weight=400, stretch='expanded', size='scalable')) = 10.25
+2025-04-09 21:07:01,663 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\courbd.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,663 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSI.TTF', name='Bookman Old Style', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-04-09 21:07:01,664 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\RAGE.TTF', name='Rage Italic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,664 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\POORICH.TTF', name='Poor Richard', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,665 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbel.ttf', name='Corbel', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,665 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebuc.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,665 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ENGR.TTF', name='Engravers MT', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,666 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constani.ttf', name='Constantia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,666 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRABK.TTF', name='Franklin Gothic Book', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,666 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuii.ttf', name='Segoe UI', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-04-09 21:07:01,666 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguiemj.ttf', name='Segoe UI Emoji', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,667 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambriaz.ttf', name='Cambria', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-04-09 21:07:01,667 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GLECB.TTF', name='Gloucester MT Extra Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-04-09 21:07:01,667 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COPRGTL.TTF', name='Copperplate Gothic Light', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,668 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\tahomabd.ttf', name='Tahoma', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,668 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GIGI.TTF', name='Gigi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,669 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\malgunbd.ttf', name='Malgun Gothic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-04-09 21:07:01,669 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIST.TTF', name='Calisto MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-04-09 21:07:01,670 - DEBUG - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuil.ttf', name='Segoe UI', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-04-09 21:07:01,670 - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2025-04-09 21:07:04,727 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,728 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,728 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,728 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,729 - DEBUG - STREAM b'IDAT' 78 1189
+2025-04-09 21:07:04,737 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,737 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,737 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,738 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,738 - DEBUG - STREAM b'IDAT' 78 2994
+2025-04-09 21:07:04,759 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,760 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,760 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,760 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,760 - DEBUG - STREAM b'IDAT' 78 374
+2025-04-09 21:07:04,763 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,763 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,764 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,764 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,764 - DEBUG - STREAM b'IDAT' 78 286
+2025-04-09 21:07:04,768 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,768 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,768 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,769 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,769 - DEBUG - STREAM b'IDAT' 78 263
+2025-04-09 21:07:04,773 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,777 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,778 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,778 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,778 - DEBUG - STREAM b'IDAT' 78 387
+2025-04-09 21:07:04,781 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,781 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,782 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,782 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,782 - DEBUG - STREAM b'IDAT' 78 436
+2025-04-09 21:07:04,785 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,786 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,786 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,786 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,787 - DEBUG - STREAM b'IDAT' 78 351
+2025-04-09 21:07:04,792 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-09 21:07:04,793 - DEBUG - STREAM b'sBIT' 41 4
+2025-04-09 21:07:04,793 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-04-09 21:07:04,793 - DEBUG - STREAM b'pHYs' 57 9
+2025-04-09 21:07:04,793 - DEBUG - STREAM b'IDAT' 78 364
+2025-04-09 21:51:33,306 - INFO - AIScheduler initialized with variance_threshold=10.00, process_count_threshold=5, priority_weight=0.50
+2025-04-09 21:54:41,663 - INFO - AIScheduler initialized with variance_threshold=10.00, process_count_threshold=5, priority_weight=0.50
+2025-04-10 23:39:43,851 - WARNING - Comparison thread timed out at 1744308583.8514273
+2025-04-10 23:39:43,854 - INFO - Starting comparison with 5 processes, quantum=2, cores=1
+2025-04-10 23:39:43,854 - INFO - Starting FCFS at 1744308583.854885
+2025-04-10 23:39:43,855 - INFO - Completed FCFS: Avg Wait=6.60, Avg Turn=12.40, CPU Util=100.00%, Throughput=0.1724 at 1744308583.855293
+2025-04-10 23:39:43,855 - INFO - Finished FCFS at 1744308583.8554566
+2025-04-10 23:39:43,855 - INFO - Starting SJF-NP at 1744308583.8556898
+2025-04-10 23:39:43,856 - INFO - Completed SJF (Non-Preemptive): Avg Wait=5.80, Avg Turn=11.60, CPU Util=100.00%, Throughput=0.1724 at 1744308583.8560042
+2025-04-10 23:39:43,856 - INFO - Finished SJF-NP at 1744308583.856299
+2025-04-10 23:39:43,856 - INFO - Starting SJF-P at 1744308583.8566184
+2025-04-10 23:39:43,857 - INFO - Completed SJF (Preemptive): Avg Wait=0.50, Avg Turn=5.00, CPU Util=60.00%, Throughput=0.1333 at 1744308583.8572373
+2025-04-10 23:39:43,857 - INFO - Finished SJF-P at 1744308583.857558
+2025-04-10 23:39:43,857 - INFO - Starting RR at 1744308583.8578331
+2025-04-10 23:39:43,858 - INFO - Completed Round Robin: Avg Wait=9.80, Avg Turn=15.60, CPU Util=100.00%, Throughput=0.1724 at 1744308583.8581345
+2025-04-10 23:39:43,858 - INFO - Finished RR at 1744308583.8583918
+2025-04-10 23:39:43,858 - INFO - Starting PR-NP at 1744308583.8587117
+2025-04-10 23:39:43,859 - INFO - Completed Priority (Non-Preemptive): Avg Wait=8.80, Avg Turn=14.60, CPU Util=100.00%, Throughput=0.1724 at 1744308583.8590517
+2025-04-10 23:39:43,859 - INFO - Finished PR-NP at 1744308583.8593256
+2025-04-10 23:39:43,859 - INFO - Starting PR-P at 1744308583.8595583
+2025-04-10 23:39:43,859 - INFO - Completed Priority (Preemptive): Avg Wait=1.00, Avg Turn=3.50, CPU Util=45.45%, Throughput=0.1818 at 1744308583.8599484
+2025-04-10 23:39:43,860 - INFO - Finished PR-P at 1744308583.8602679
+2025-04-10 23:39:43,860 - INFO - Starting MLFQ at 1744308583.8606284
+2025-04-10 23:39:43,866 - INFO - Completed MLFQ: Avg Wait=11.40, Avg Turn=17.20, CPU Util=100.00%, Throughput=0.1724 at 1744308583.8663576
+2025-04-10 23:39:43,867 - INFO - Finished MLFQ at 1744308583.8676891
+2025-04-10 23:39:43,868 - INFO - Starting Intelligent at 1744308583.8685148
+2025-04-10 23:39:43,869 - INFO - Completed Intelligent (RR): Avg Wait=9.80, Avg Turn=15.60, CPU Util=100.00%, Throughput=0.1724 at 1744308583.8690362
+2025-04-10 23:39:43,871 - INFO - Finished Intelligent at 1744308583.870984
+2025-04-10 23:39:43,871 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-10 23:44:43,918 - WARNING - Comparison thread timed out at 1744308883.9183
+2025-04-10 23:44:43,919 - INFO - Starting comparison with 10 processes, quantum=2, cores=1
+2025-04-10 23:44:43,920 - INFO - Starting FCFS at 1744308883.9199858
+2025-04-10 23:44:43,920 - INFO - Completed FCFS: Avg Wait=15.50, Avg Turn=20.10, CPU Util=97.87%, Throughput=0.2128 at 1744308883.9204433
+2025-04-10 23:44:43,920 - INFO - Finished FCFS at 1744308883.9207044
+2025-04-10 23:44:43,920 - INFO - Starting SJF-NP at 1744308883.9209483
+2025-04-10 23:44:43,921 - INFO - Completed SJF (Non-Preemptive): Avg Wait=8.80, Avg Turn=13.40, CPU Util=97.87%, Throughput=0.2128 at 1744308883.9213376
+2025-04-10 23:44:43,921 - INFO - Finished SJF-NP at 1744308883.9216135
+2025-04-10 23:44:43,921 - INFO - Starting SJF-P at 1744308883.9219244
+2025-04-10 23:44:43,922 - INFO - Completed SJF (Preemptive): Avg Wait=0.33, Avg Turn=2.00, CPU Util=35.71%, Throughput=0.2143 at 1744308883.9224298
+2025-04-10 23:44:43,922 - INFO - Finished SJF-P at 1744308883.9227736
+2025-04-10 23:44:43,923 - INFO - Starting RR at 1744308883.9229925
+2025-04-10 23:44:43,923 - INFO - Completed Round Robin: Avg Wait=16.60, Avg Turn=21.20, CPU Util=97.87%, Throughput=0.2128 at 1744308883.9238923
+2025-04-10 23:44:43,925 - INFO - Finished RR at 1744308883.9253383
+2025-04-10 23:44:43,926 - INFO - Starting PR-NP at 1744308883.9266002
+2025-04-10 23:44:43,927 - INFO - Completed Priority (Non-Preemptive): Avg Wait=13.10, Avg Turn=17.70, CPU Util=97.87%, Throughput=0.2128 at 1744308883.9272118
+2025-04-10 23:44:43,927 - INFO - Finished PR-NP at 1744308883.9275637
+2025-04-10 23:44:43,928 - INFO - Starting PR-P at 1744308883.9284494
+2025-04-10 23:44:43,930 - INFO - Completed Priority (Preemptive): Avg Wait=0.50, Avg Turn=1.50, CPU Util=16.67%, Throughput=0.1667 at 1744308883.930497
+2025-04-10 23:44:43,932 - INFO - Finished PR-P at 1744308883.9326375
+2025-04-10 23:44:43,933 - INFO - Starting MLFQ at 1744308883.9332967
+2025-04-10 23:44:43,941 - INFO - Completed MLFQ: Avg Wait=18.20, Avg Turn=22.80, CPU Util=100.00%, Throughput=0.2174 at 1744308883.9414036
+2025-04-10 23:44:43,941 - INFO - Finished MLFQ at 1744308883.9419017
+2025-04-10 23:44:43,942 - INFO - Starting Intelligent at 1744308883.9422247
+2025-04-10 23:44:43,942 - INFO - Completed Intelligent (SJF-P): Avg Wait=0.33, Avg Turn=2.00, CPU Util=35.71%, Throughput=0.2143 at 1744308883.9427683
+2025-04-10 23:44:43,943 - INFO - Finished Intelligent at 1744308883.9432678
+2025-04-10 23:44:43,943 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (SJF-P)']
+2025-04-10 23:49:50,446 - WARNING - Comparison thread timed out at 1744309190.446372
+2025-04-10 23:49:50,456 - INFO - Starting comparison with 5 processes, quantum=2, cores=1
+2025-04-10 23:49:50,457 - INFO - Starting FCFS at 1744309190.4571328
+2025-04-10 23:49:50,458 - INFO - Completed FCFS: Avg Wait=5.80, Avg Turn=9.40, CPU Util=100.00%, Throughput=0.2778 at 1744309190.457977
+2025-04-10 23:49:50,458 - INFO - Finished FCFS at 1744309190.4585044
+2025-04-10 23:49:50,459 - INFO - Starting SJF-NP at 1744309190.4591126
+2025-04-10 23:49:50,460 - INFO - Completed SJF (Non-Preemptive): Avg Wait=3.40, Avg Turn=7.00, CPU Util=100.00%, Throughput=0.2778 at 1744309190.460066
+2025-04-10 23:49:50,460 - INFO - Finished SJF-NP at 1744309190.4606657
+2025-04-10 23:49:50,461 - INFO - Starting SJF-P at 1744309190.4617283
+2025-04-10 23:49:50,462 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=1.00, CPU Util=12.50%, Throughput=0.1250 at 1744309190.4625823
+2025-04-10 23:49:50,466 - INFO - Finished SJF-P at 1744309190.4661982
+2025-04-10 23:49:50,466 - INFO - Starting RR at 1744309190.466779
+2025-04-10 23:49:50,467 - INFO - Completed Round Robin: Avg Wait=5.60, Avg Turn=9.20, CPU Util=100.00%, Throughput=0.2778 at 1744309190.4676716
+2025-04-10 23:49:50,468 - INFO - Finished RR at 1744309190.468087
+2025-04-10 23:49:50,468 - INFO - Starting PR-NP at 1744309190.4683564
+2025-04-10 23:49:50,469 - INFO - Completed Priority (Non-Preemptive): Avg Wait=5.20, Avg Turn=8.80, CPU Util=100.00%, Throughput=0.2778 at 1744309190.4690375
+2025-04-10 23:49:50,469 - INFO - Finished PR-NP at 1744309190.469643
+2025-04-10 23:49:50,470 - INFO - Starting PR-P at 1744309190.470277
+2025-04-10 23:49:50,470 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=1.00, CPU Util=12.50%, Throughput=0.1250 at 1744309190.4709191
+2025-04-10 23:49:50,471 - INFO - Finished PR-P at 1744309190.471458
+2025-04-10 23:49:50,471 - INFO - Starting MLFQ at 1744309190.4718463
+2025-04-10 23:49:50,473 - INFO - Completed MLFQ: Avg Wait=5.20, Avg Turn=8.80, CPU Util=100.00%, Throughput=0.2778 at 1744309190.4733336
+2025-04-10 23:49:50,473 - INFO - Finished MLFQ at 1744309190.4737606
+2025-04-10 23:49:50,474 - INFO - Starting Intelligent at 1744309190.4740286
+2025-04-10 23:49:50,475 - INFO - Completed Intelligent (SJF-P): Avg Wait=0.00, Avg Turn=1.00, CPU Util=12.50%, Throughput=0.1250 at 1744309190.475809
+2025-04-10 23:49:50,476 - INFO - Finished Intelligent at 1744309190.4764085
+2025-04-10 23:49:50,477 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (SJF-P)']
+2025-04-11 00:12:10,491 - WARNING - Comparison still running at 1744310530.4908466, proceeding without interruption
+2025-04-11 00:12:10,509 - INFO - Starting comparison with 6 processes, quantum=2, cores=1
+2025-04-11 00:12:10,511 - INFO - Starting FCFS at 1744310530.5116172
+2025-04-11 00:12:10,513 - INFO - Completed FCFS: Avg Wait=8.83, Avg Turn=14.00, CPU Util=100.00%, Throughput=0.1935 at 1744310530.5131395
+2025-04-11 00:12:10,514 - INFO - Finished FCFS at 1744310530.5141642
+2025-04-11 00:12:10,514 - INFO - Starting SJF-NP at 1744310530.5148747
+2025-04-11 00:12:10,515 - INFO - Completed SJF (Non-Preemptive): Avg Wait=8.17, Avg Turn=13.33, CPU Util=100.00%, Throughput=0.1935 at 1744310530.5155594
+2025-04-11 00:12:10,516 - INFO - Finished SJF-NP at 1744310530.5162508
+2025-04-11 00:12:10,529 - INFO - Starting SJF-P at 1744310530.5297422
+2025-04-11 00:12:10,530 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=5.00, CPU Util=66.67%, Throughput=0.1333 at 1744310530.5305
+2025-04-11 00:12:10,531 - INFO - Finished SJF-P at 1744310530.5309935
+2025-04-11 00:12:10,531 - INFO - Starting RR at 1744310530.531765
+2025-04-11 00:12:10,532 - INFO - Completed Round Robin: Avg Wait=14.00, Avg Turn=19.17, CPU Util=100.00%, Throughput=0.1935 at 1744310530.5324314
+2025-04-11 00:12:10,535 - INFO - Finished RR at 1744310530.5355544
+2025-04-11 00:12:10,536 - INFO - Starting PR-NP at 1744310530.536765
+2025-04-11 00:12:10,537 - INFO - Completed Priority (Non-Preemptive): Avg Wait=8.67, Avg Turn=13.83, CPU Util=100.00%, Throughput=0.1935 at 1744310530.5377734
+2025-04-11 00:12:10,539 - INFO - Finished PR-NP at 1744310530.5396478
+2025-04-11 00:12:10,540 - INFO - Starting PR-P at 1744310530.5403147
+2025-04-11 00:12:10,540 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=5.00, CPU Util=66.67%, Throughput=0.1333 at 1744310530.5407917
+2025-04-11 00:12:10,541 - INFO - Finished PR-P at 1744310530.5410957
+2025-04-11 00:12:10,541 - INFO - Starting MLFQ at 1744310530.5414104
+2025-04-11 00:12:10,544 - INFO - Completed MLFQ: Avg Wait=13.33, Avg Turn=18.50, CPU Util=100.00%, Throughput=0.1935 at 1744310530.5444481
+2025-04-11 00:12:10,545 - INFO - Finished MLFQ at 1744310530.545014
+2025-04-11 00:12:10,545 - INFO - Starting Intelligent at 1744310530.5454383
+2025-04-11 00:12:10,545 - INFO - Completed Intelligent (RR): Avg Wait=14.00, Avg Turn=19.17, CPU Util=100.00%, Throughput=0.1935 at 1744310530.5458944
+2025-04-11 00:12:10,546 - INFO - Finished Intelligent at 1744310530.5462902
+2025-04-11 00:12:10,546 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:15:14,078 - WARNING - Comparison still running at 1744310714.0788634, proceeding without interruption
+2025-04-11 00:15:14,087 - INFO - Starting comparison with 5 processes, quantum=2, cores=1
+2025-04-11 00:15:14,087 - INFO - Starting FCFS at 1744310714.0877159
+2025-04-11 00:15:14,088 - INFO - Completed FCFS: Avg Wait=7.60, Avg Turn=12.80, CPU Util=92.86%, Throughput=0.1786 at 1744310714.0882094
+2025-04-11 00:15:14,088 - INFO - Finished FCFS at 1744310714.0885363
+2025-04-11 00:15:14,088 - INFO - Starting SJF-NP at 1744310714.0888717
+2025-04-11 00:15:14,089 - INFO - Completed SJF (Non-Preemptive): Avg Wait=7.60, Avg Turn=12.80, CPU Util=92.86%, Throughput=0.1786 at 1744310714.0892448
+2025-04-11 00:15:14,089 - INFO - Finished SJF-NP at 1744310714.089511
+2025-04-11 00:15:14,089 - INFO - Starting SJF-P at 1744310714.0897949
+2025-04-11 00:15:14,090 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=4.00, CPU Util=70.59%, Throughput=0.1765 at 1744310714.090175
+2025-04-11 00:15:14,090 - INFO - Finished SJF-P at 1744310714.090607
+2025-04-11 00:15:14,090 - INFO - Starting RR at 1744310714.0908716
+2025-04-11 00:15:14,091 - INFO - Completed Round Robin: Avg Wait=7.60, Avg Turn=12.80, CPU Util=92.86%, Throughput=0.1786 at 1744310714.091163
+2025-04-11 00:15:14,091 - INFO - Finished RR at 1744310714.0914295
+2025-04-11 00:15:14,091 - INFO - Starting PR-NP at 1744310714.0916312
+2025-04-11 00:15:14,091 - INFO - Completed Priority (Non-Preemptive): Avg Wait=8.40, Avg Turn=13.60, CPU Util=92.86%, Throughput=0.1786 at 1744310714.0919447
+2025-04-11 00:15:14,092 - INFO - Finished PR-NP at 1744310714.0921922
+2025-04-11 00:15:14,092 - INFO - Starting PR-P at 1744310714.092363
+2025-04-11 00:15:14,092 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=4.00, CPU Util=70.59%, Throughput=0.1765 at 1744310714.0926015
+2025-04-11 00:15:14,092 - INFO - Finished PR-P at 1744310714.0928087
+2025-04-11 00:15:14,093 - INFO - Starting MLFQ at 1744310714.0929902
+2025-04-11 00:15:14,094 - INFO - Completed MLFQ: Avg Wait=4.80, Avg Turn=10.00, CPU Util=100.00%, Throughput=0.1923 at 1744310714.0941975
+2025-04-11 00:15:14,094 - INFO - Finished MLFQ at 1744310714.0944939
+2025-04-11 00:15:14,094 - INFO - Starting Intelligent at 1744310714.0946999
+2025-04-11 00:15:14,095 - INFO - Completed Intelligent (RR): Avg Wait=7.60, Avg Turn=12.80, CPU Util=92.86%, Throughput=0.1786 at 1744310714.0950031
+2025-04-11 00:15:14,095 - INFO - Finished Intelligent at 1744310714.0954208
+2025-04-11 00:15:14,095 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:18:52,171 - INFO - Starting comparison with 9 processes, quantum=2, cores=1
+2025-04-11 00:18:52,171 - INFO - Starting FCFS at 1744310932.1715899
+2025-04-11 00:18:52,172 - INFO - Completed FCFS: Avg Wait=19.67, Avg Turn=25.22, CPU Util=100.00%, Throughput=0.1800 at 1744310932.1719825
+2025-04-11 00:18:52,173 - INFO - Finished FCFS at 1744310932.1734083
+2025-04-11 00:18:52,173 - INFO - Starting SJF-NP at 1744310932.1738257
+2025-04-11 00:18:52,174 - INFO - Completed SJF (Non-Preemptive): Avg Wait=12.56, Avg Turn=18.11, CPU Util=100.00%, Throughput=0.1800 at 1744310932.1742475
+2025-04-11 00:18:52,174 - INFO - Finished SJF-NP at 1744310932.174945
+2025-04-11 00:18:52,175 - INFO - Starting SJF-P at 1744310932.175239
+2025-04-11 00:18:52,175 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=6.00, CPU Util=37.50%, Throughput=0.0625 at 1744310932.17576
+2025-04-11 00:18:52,176 - INFO - Finished SJF-P at 1744310932.1767268
+2025-04-11 00:18:52,177 - INFO - Starting RR at 1744310932.177244
+2025-04-11 00:18:52,178 - INFO - Completed Round Robin: Avg Wait=24.11, Avg Turn=29.67, CPU Util=100.00%, Throughput=0.1800 at 1744310932.1781864
+2025-04-11 00:18:52,179 - INFO - Finished RR at 1744310932.1789463
+2025-04-11 00:18:52,179 - INFO - Starting PR-NP at 1744310932.179498
+2025-04-11 00:18:52,180 - INFO - Completed Priority (Non-Preemptive): Avg Wait=19.56, Avg Turn=25.11, CPU Util=100.00%, Throughput=0.1800 at 1744310932.1800308
+2025-04-11 00:18:52,181 - INFO - Finished PR-NP at 1744310932.1809752
+2025-04-11 00:18:52,181 - INFO - Starting PR-P at 1744310932.1814773
+2025-04-11 00:18:52,182 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=6.00, CPU Util=37.50%, Throughput=0.0625 at 1744310932.1822388
+2025-04-11 00:18:52,183 - INFO - Finished PR-P at 1744310932.1836674
+2025-04-11 00:18:52,184 - INFO - Starting MLFQ at 1744310932.1846614
+2025-04-11 00:18:52,189 - INFO - Completed MLFQ: Avg Wait=25.78, Avg Turn=31.33, CPU Util=100.00%, Throughput=0.1800 at 1744310932.1897569
+2025-04-11 00:18:52,191 - INFO - Finished MLFQ at 1744310932.1918678
+2025-04-11 00:18:52,192 - INFO - Starting Intelligent at 1744310932.1924706
+2025-04-11 00:18:52,196 - INFO - Completed Intelligent (RR): Avg Wait=24.11, Avg Turn=29.67, CPU Util=100.00%, Throughput=0.1800 at 1744310932.1962407
+2025-04-11 00:18:52,197 - INFO - Finished Intelligent at 1744310932.1973014
+2025-04-11 00:18:52,198 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:21:59,383 - INFO - Starting comparison with 10 processes, quantum=2, cores=1
+2025-04-11 00:21:59,384 - INFO - Starting FCFS at 1744311119.3842678
+2025-04-11 00:21:59,385 - INFO - Completed FCFS: Avg Wait=25.20, Avg Turn=32.00, CPU Util=100.00%, Throughput=0.1471 at 1744311119.3852305
+2025-04-11 00:21:59,386 - INFO - Finished FCFS at 1744311119.3867574
+2025-04-11 00:21:59,387 - INFO - Starting SJF-NP at 1744311119.3872566
+2025-04-11 00:21:59,388 - INFO - Completed SJF (Non-Preemptive): Avg Wait=21.90, Avg Turn=28.70, CPU Util=100.00%, Throughput=0.1471 at 1744311119.3879547
+2025-04-11 00:21:59,388 - INFO - Finished SJF-NP at 1744311119.3884995
+2025-04-11 00:21:59,389 - INFO - Starting SJF-P at 1744311119.3890421
+2025-04-11 00:21:59,389 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=9.00, CPU Util=47.37%, Throughput=0.0526 at 1744311119.3895645
+2025-04-11 00:21:59,390 - INFO - Finished SJF-P at 1744311119.3901596
+2025-04-11 00:21:59,390 - INFO - Starting RR at 1744311119.3909276
+2025-04-11 00:21:59,392 - INFO - Completed Round Robin: Avg Wait=37.70, Avg Turn=44.50, CPU Util=100.00%, Throughput=0.1471 at 1744311119.3919618
+2025-04-11 00:21:59,392 - INFO - Finished RR at 1744311119.3926806
+2025-04-11 00:21:59,393 - INFO - Starting PR-NP at 1744311119.3931804
+2025-04-11 00:21:59,393 - INFO - Completed Priority (Non-Preemptive): Avg Wait=26.90, Avg Turn=33.70, CPU Util=100.00%, Throughput=0.1471 at 1744311119.3938339
+2025-04-11 00:21:59,395 - INFO - Finished PR-NP at 1744311119.3951697
+2025-04-11 00:21:59,397 - INFO - Starting PR-P at 1744311119.3971512
+2025-04-11 00:21:59,397 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=9.00, CPU Util=47.37%, Throughput=0.0526 at 1744311119.3978693
+2025-04-11 00:21:59,398 - INFO - Finished PR-P at 1744311119.3985922
+2025-04-11 00:21:59,399 - INFO - Starting MLFQ at 1744311119.3991404
+2025-04-11 00:21:59,402 - INFO - Completed MLFQ: Avg Wait=38.30, Avg Turn=45.10, CPU Util=100.00%, Throughput=0.1471 at 1744311119.4024935
+2025-04-11 00:21:59,403 - INFO - Finished MLFQ at 1744311119.4034595
+2025-04-11 00:21:59,404 - INFO - Starting Intelligent at 1744311119.404022
+2025-04-11 00:21:59,405 - INFO - Completed Intelligent (RR): Avg Wait=37.70, Avg Turn=44.50, CPU Util=100.00%, Throughput=0.1471 at 1744311119.4055116
+2025-04-11 00:21:59,406 - INFO - Finished Intelligent at 1744311119.40638
+2025-04-11 00:21:59,407 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:25:36,950 - INFO - Starting comparison with 10 processes, quantum=2, cores=1
+2025-04-11 00:25:36,951 - INFO - Starting FCFS at 1744311336.9509773
+2025-04-11 00:25:36,951 - INFO - Completed FCFS: Avg Wait=22.30, Avg Turn=27.60, CPU Util=91.38%, Throughput=0.1724 at 1744311336.9512181
+2025-04-11 00:25:36,952 - INFO - Finished FCFS at 1744311336.9524486
+2025-04-11 00:25:36,952 - INFO - Starting SJF-NP at 1744311336.9526846
+2025-04-11 00:25:36,952 - INFO - Completed SJF (Non-Preemptive): Avg Wait=14.30, Avg Turn=19.60, CPU Util=91.38%, Throughput=0.1724 at 1744311336.9529135
+2025-04-11 00:25:36,953 - INFO - Finished SJF-NP at 1744311336.953299
+2025-04-11 00:25:36,953 - INFO - Starting SJF-P at 1744311336.953555
+2025-04-11 00:25:36,953 - INFO - Completed SJF (Preemptive): Avg Wait=2.33, Avg Turn=6.33, CPU Util=50.00%, Throughput=0.1250 at 1744311336.953828
+2025-04-11 00:25:36,954 - INFO - Finished SJF-P at 1744311336.9544747
+2025-04-11 00:25:36,954 - INFO - Starting RR at 1744311336.9547107
+2025-04-11 00:25:36,954 - INFO - Completed Round Robin: Avg Wait=25.10, Avg Turn=30.40, CPU Util=91.38%, Throughput=0.1724 at 1744311336.954943
+2025-04-11 00:25:36,955 - INFO - Finished RR at 1744311336.9555614
+2025-04-11 00:25:36,955 - INFO - Starting PR-NP at 1744311336.9559536
+2025-04-11 00:25:36,956 - INFO - Completed Priority (Non-Preemptive): Avg Wait=20.80, Avg Turn=26.10, CPU Util=91.38%, Throughput=0.1724 at 1744311336.9564738
+2025-04-11 00:25:36,957 - INFO - Finished PR-NP at 1744311336.9569683
+2025-04-11 00:25:36,957 - INFO - Starting PR-P at 1744311336.9572864
+2025-04-11 00:25:36,957 - INFO - Completed Priority (Preemptive): Avg Wait=2.33, Avg Turn=5.00, CPU Util=40.00%, Throughput=0.1500 at 1744311336.9577737
+2025-04-11 00:25:36,958 - INFO - Finished PR-P at 1744311336.9583538
+2025-04-11 00:25:36,958 - INFO - Starting MLFQ at 1744311336.9586663
+2025-04-11 00:25:36,963 - INFO - Completed MLFQ: Avg Wait=20.50, Avg Turn=25.80, CPU Util=100.00%, Throughput=0.1887 at 1744311336.9634967
+2025-04-11 00:25:36,964 - INFO - Finished MLFQ at 1744311336.9641497
+2025-04-11 00:25:36,964 - INFO - Starting Intelligent at 1744311336.9645944
+2025-04-11 00:25:36,965 - INFO - Completed Intelligent (RR): Avg Wait=25.10, Avg Turn=30.40, CPU Util=91.38%, Throughput=0.1724 at 1744311336.9656065
+2025-04-11 00:25:36,966 - INFO - Finished Intelligent at 1744311336.966624
+2025-04-11 00:25:36,967 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:29:18,050 - INFO - Starting comparison with 7 processes, quantum=2, cores=1
+2025-04-11 00:29:18,051 - INFO - Starting FCFS at 1744311558.0514498
+2025-04-11 00:29:18,052 - INFO - Completed FCFS: Avg Wait=10.57, Avg Turn=17.00, CPU Util=100.00%, Throughput=0.1556 at 1744311558.05196
+2025-04-11 00:29:18,053 - INFO - Finished FCFS at 1744311558.053579
+2025-04-11 00:29:18,054 - INFO - Starting SJF-NP at 1744311558.0541272
+2025-04-11 00:29:18,054 - INFO - Completed SJF (Non-Preemptive): Avg Wait=9.00, Avg Turn=15.43, CPU Util=100.00%, Throughput=0.1556 at 1744311558.0545967
+2025-04-11 00:29:18,055 - INFO - Finished SJF-NP at 1744311558.0550354
+2025-04-11 00:29:18,055 - INFO - Starting SJF-P at 1744311558.0553691
+2025-04-11 00:29:18,055 - INFO - Completed SJF (Preemptive): Avg Wait=1.00, Avg Turn=8.00, CPU Util=70.00%, Throughput=0.1000 at 1744311558.0557532
+2025-04-11 00:29:18,056 - INFO - Finished SJF-P at 1744311558.0562549
+2025-04-11 00:29:18,057 - INFO - Starting RR at 1744311558.057295
+2025-04-11 00:29:18,057 - INFO - Completed Round Robin: Avg Wait=18.29, Avg Turn=24.71, CPU Util=100.00%, Throughput=0.1556 at 1744311558.0579238
+2025-04-11 00:29:18,058 - INFO - Finished RR at 1744311558.0586216
+2025-04-11 00:29:18,059 - INFO - Starting PR-NP at 1744311558.0590296
+2025-04-11 00:29:18,059 - INFO - Completed Priority (Non-Preemptive): Avg Wait=10.57, Avg Turn=17.00, CPU Util=100.00%, Throughput=0.1556 at 1744311558.059681
+2025-04-11 00:29:18,060 - INFO - Finished PR-NP at 1744311558.0603678
+2025-04-11 00:29:18,060 - INFO - Starting PR-P at 1744311558.060847
+2025-04-11 00:29:18,061 - INFO - Completed Priority (Preemptive): Avg Wait=1.00, Avg Turn=7.00, CPU Util=66.67%, Throughput=0.1111 at 1744311558.061362
+2025-04-11 00:29:18,061 - INFO - Finished PR-P at 1744311558.061932
+2025-04-11 00:29:18,062 - INFO - Starting MLFQ at 1744311558.0623689
+2025-04-11 00:29:18,066 - INFO - Completed MLFQ: Avg Wait=18.86, Avg Turn=25.29, CPU Util=100.00%, Throughput=0.1556 at 1744311558.0665023
+2025-04-11 00:29:18,067 - INFO - Finished MLFQ at 1744311558.0672448
+2025-04-11 00:29:18,067 - INFO - Starting Intelligent at 1744311558.0677414
+2025-04-11 00:29:18,068 - INFO - Completed Intelligent (RR): Avg Wait=18.29, Avg Turn=24.71, CPU Util=100.00%, Throughput=0.1556 at 1744311558.068368
+2025-04-11 00:29:18,069 - INFO - Finished Intelligent at 1744311558.069031
+2025-04-11 00:29:18,070 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:32:29,447 - INFO - Starting comparison with 10 processes, quantum=2, cores=1
+2025-04-11 00:32:29,448 - INFO - Starting FCFS at 1744311749.4483054
+2025-04-11 00:32:29,448 - INFO - Completed FCFS: Avg Wait=16.90, Avg Turn=21.30, CPU Util=95.65%, Throughput=0.2174 at 1744311749.448563
+2025-04-11 00:32:29,449 - INFO - Finished FCFS at 1744311749.4497402
+2025-04-11 00:32:29,450 - INFO - Starting SJF-NP at 1744311749.4499936
+2025-04-11 00:32:29,450 - INFO - Completed SJF (Non-Preemptive): Avg Wait=9.40, Avg Turn=13.80, CPU Util=95.65%, Throughput=0.2174 at 1744311749.4502282
+2025-04-11 00:32:29,450 - INFO - Finished SJF-NP at 1744311749.4508538
+2025-04-11 00:32:29,451 - INFO - Starting SJF-P at 1744311749.4511096
+2025-04-11 00:32:29,451 - INFO - Completed SJF (Preemptive): Avg Wait=2.00, Avg Turn=6.00, CPU Util=44.44%, Throughput=0.1111 at 1744311749.451345
+2025-04-11 00:32:29,451 - INFO - Finished SJF-P at 1744311749.45177
+2025-04-11 00:32:29,452 - INFO - Starting RR at 1744311749.4519956
+2025-04-11 00:32:29,452 - INFO - Completed Round Robin: Avg Wait=19.20, Avg Turn=23.60, CPU Util=95.65%, Throughput=0.2174 at 1744311749.4522293
+2025-04-11 00:32:29,452 - INFO - Finished RR at 1744311749.4528341
+2025-04-11 00:32:29,453 - INFO - Starting PR-NP at 1744311749.4531827
+2025-04-11 00:32:29,453 - INFO - Completed Priority (Non-Preemptive): Avg Wait=20.80, Avg Turn=25.20, CPU Util=95.65%, Throughput=0.2174 at 1744311749.4536905
+2025-04-11 00:32:29,454 - INFO - Finished PR-NP at 1744311749.4541726
+2025-04-11 00:32:29,454 - INFO - Starting PR-P at 1744311749.4545238
+2025-04-11 00:32:29,455 - INFO - Completed Priority (Preemptive): Avg Wait=2.00, Avg Turn=3.50, CPU Util=23.08%, Throughput=0.1538 at 1744311749.4549947
+2025-04-11 00:32:29,455 - INFO - Finished PR-P at 1744311749.455663
+2025-04-11 00:32:29,456 - INFO - Starting MLFQ at 1744311749.4559772
+2025-04-11 00:32:29,459 - INFO - Completed MLFQ: Avg Wait=16.90, Avg Turn=21.30, CPU Util=100.00%, Throughput=0.2273 at 1744311749.458984
+2025-04-11 00:32:29,460 - INFO - Finished MLFQ at 1744311749.4602137
+2025-04-11 00:32:29,460 - INFO - Starting Intelligent at 1744311749.460693
+2025-04-11 00:32:29,461 - INFO - Completed Intelligent (SJF-P): Avg Wait=2.00, Avg Turn=6.00, CPU Util=44.44%, Throughput=0.1111 at 1744311749.461407
+2025-04-11 00:32:29,461 - INFO - Finished Intelligent at 1744311749.4619315
+2025-04-11 00:32:29,463 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (SJF-P)']
+2025-04-11 00:32:31,768 - DEBUG - Drawing bar chart with data: [16.9, 9.4, 2.0, 19.2, 20.8, 2.0, 16.9, 2.0]
+2025-04-11 00:32:31,892 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:32:31,892 - DEBUG - Drawing bar chart with data: [21.3, 13.8, 6.0, 23.6, 25.2, 3.5, 21.3, 6.0]
+2025-04-11 00:32:31,978 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:32:31,978 - DEBUG - Drawing bar chart with data: [95.65217391304348, 95.65217391304348, 44.44444444444444, 95.65217391304348, 95.65217391304348, 23.076923076923077, 100.0, 44.44444444444444]
+2025-04-11 00:32:32,062 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:32:32,062 - DEBUG - Drawing bar chart with data: [0.21739130434782608, 0.21739130434782608, 0.1111111111111111, 0.21739130434782608, 0.21739130434782608, 0.15384615384615385, 0.22727272727272727, 0.1111111111111111]
+2025-04-11 00:32:32,152 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:37:58,817 - INFO - Starting comparison with 7 processes, quantum=2, cores=1
+2025-04-11 00:37:58,818 - INFO - Starting FCFS at 1744312078.818252
+2025-04-11 00:37:58,818 - INFO - Completed FCFS: Avg Wait=14.71, Avg Turn=20.43, CPU Util=100.00%, Throughput=0.1750 at 1744312078.8186274
+2025-04-11 00:37:58,820 - INFO - Finished FCFS at 1744312078.8200605
+2025-04-11 00:37:58,820 - INFO - Starting SJF-NP at 1744312078.82035
+2025-04-11 00:37:58,820 - INFO - Completed SJF (Non-Preemptive): Avg Wait=11.86, Avg Turn=17.57, CPU Util=100.00%, Throughput=0.1750 at 1744312078.8206813
+2025-04-11 00:37:58,821 - INFO - Finished SJF-NP at 1744312078.8212364
+2025-04-11 00:37:58,821 - INFO - Starting SJF-P at 1744312078.8214874
+2025-04-11 00:37:58,821 - INFO - Completed SJF (Preemptive): Avg Wait=4.00, Avg Turn=13.00, CPU Util=60.00%, Throughput=0.0667 at 1744312078.8217478
+2025-04-11 00:37:58,822 - INFO - Finished SJF-P at 1744312078.8223603
+2025-04-11 00:37:58,822 - INFO - Starting RR at 1744312078.822597
+2025-04-11 00:37:58,822 - INFO - Completed Round Robin: Avg Wait=21.14, Avg Turn=26.86, CPU Util=100.00%, Throughput=0.1750 at 1744312078.8228183
+2025-04-11 00:37:58,823 - INFO - Finished RR at 1744312078.8232532
+2025-04-11 00:37:58,823 - INFO - Starting PR-NP at 1744312078.8235893
+2025-04-11 00:37:58,824 - INFO - Completed Priority (Non-Preemptive): Avg Wait=12.43, Avg Turn=18.14, CPU Util=100.00%, Throughput=0.1750 at 1744312078.8239834
+2025-04-11 00:37:58,824 - INFO - Finished PR-NP at 1744312078.824506
+2025-04-11 00:37:58,824 - INFO - Starting PR-P at 1744312078.8248572
+2025-04-11 00:37:58,825 - INFO - Completed Priority (Preemptive): Avg Wait=4.00, Avg Turn=13.00, CPU Util=60.00%, Throughput=0.0667 at 1744312078.8253412
+2025-04-11 00:37:58,825 - INFO - Finished PR-P at 1744312078.8259223
+2025-04-11 00:37:58,826 - INFO - Starting MLFQ at 1744312078.8262475
+2025-04-11 00:37:58,828 - INFO - Completed MLFQ: Avg Wait=23.14, Avg Turn=28.86, CPU Util=100.00%, Throughput=0.1750 at 1744312078.8285038
+2025-04-11 00:37:58,829 - INFO - Finished MLFQ at 1744312078.8295503
+2025-04-11 00:37:58,831 - INFO - Starting Intelligent at 1744312078.8311327
+2025-04-11 00:37:58,831 - INFO - Completed Intelligent (RR): Avg Wait=21.14, Avg Turn=26.86, CPU Util=100.00%, Throughput=0.1750 at 1744312078.831725
+2025-04-11 00:37:58,832 - INFO - Finished Intelligent at 1744312078.832261
+2025-04-11 00:37:58,832 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:38:00,707 - DEBUG - Drawing bar chart with data: [14.714285714285714, 11.857142857142858, 4.0, 21.142857142857142, 12.428571428571429, 4.0, 23.142857142857142, 21.142857142857142]
+2025-04-11 00:38:00,827 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:38:00,829 - DEBUG - Drawing bar chart with data: [20.428571428571427, 17.571428571428573, 13.0, 26.857142857142858, 18.142857142857142, 13.0, 28.857142857142858, 26.857142857142858]
+2025-04-11 00:38:00,927 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:38:00,928 - DEBUG - Drawing bar chart with data: [100.0, 100.0, 60.0, 100.0, 100.0, 60.0, 100.0, 100.0]
+2025-04-11 00:38:01,010 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:38:01,010 - DEBUG - Drawing bar chart with data: [0.175, 0.175, 0.06666666666666667, 0.175, 0.175, 0.06666666666666667, 0.175, 0.175]
+2025-04-11 00:38:01,091 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:41:33,421 - INFO - Starting comparison with 5 processes, quantum=2, cores=1
+2025-04-11 00:41:33,421 - INFO - Starting FCFS at 1744312293.4217722
+2025-04-11 00:41:33,422 - INFO - Completed FCFS: Avg Wait=7.60, Avg Turn=13.20, CPU Util=84.85%, Throughput=0.1515 at 1744312293.4221337
+2025-04-11 00:41:33,423 - INFO - Finished FCFS at 1744312293.423538
+2025-04-11 00:41:33,424 - INFO - Starting SJF-NP at 1744312293.4239776
+2025-04-11 00:41:33,424 - INFO - Completed SJF (Non-Preemptive): Avg Wait=4.80, Avg Turn=10.40, CPU Util=84.85%, Throughput=0.1515 at 1744312293.4244432
+2025-04-11 00:41:33,424 - INFO - Finished SJF-NP at 1744312293.4248486
+2025-04-11 00:41:33,425 - INFO - Starting SJF-P at 1744312293.4251626
+2025-04-11 00:41:33,425 - INFO - Completed SJF (Preemptive): Avg Wait=1.00, Avg Turn=6.50, CPU Util=55.00%, Throughput=0.1000 at 1744312293.425563
+2025-04-11 00:41:33,426 - INFO - Finished SJF-P at 1744312293.4262893
+2025-04-11 00:41:33,426 - INFO - Starting RR at 1744312293.4266315
+2025-04-11 00:41:33,427 - INFO - Completed Round Robin: Avg Wait=8.00, Avg Turn=13.60, CPU Util=84.85%, Throughput=0.1515 at 1744312293.4269826
+2025-04-11 00:41:33,427 - INFO - Finished RR at 1744312293.4277413
+2025-04-11 00:41:33,428 - INFO - Starting PR-NP at 1744312293.4284716
+2025-04-11 00:41:33,429 - INFO - Completed Priority (Non-Preemptive): Avg Wait=4.80, Avg Turn=10.40, CPU Util=84.85%, Throughput=0.1515 at 1744312293.4290054
+2025-04-11 00:41:33,429 - INFO - Finished PR-NP at 1744312293.4294963
+2025-04-11 00:41:33,429 - INFO - Starting PR-P at 1744312293.429886
+2025-04-11 00:41:33,430 - INFO - Completed Priority (Preemptive): Avg Wait=1.00, Avg Turn=6.50, CPU Util=55.00%, Throughput=0.1000 at 1744312293.430318
+2025-04-11 00:41:33,430 - INFO - Finished PR-P at 1744312293.4308686
+2025-04-11 00:41:33,431 - INFO - Starting MLFQ at 1744312293.431255
+2025-04-11 00:41:33,434 - INFO - Completed MLFQ: Avg Wait=2.20, Avg Turn=7.80, CPU Util=100.00%, Throughput=0.1786 at 1744312293.4346726
+2025-04-11 00:41:33,435 - INFO - Finished MLFQ at 1744312293.4354694
+2025-04-11 00:41:33,435 - INFO - Starting Intelligent at 1744312293.4359179
+2025-04-11 00:41:33,436 - INFO - Completed Intelligent (RR): Avg Wait=8.00, Avg Turn=13.60, CPU Util=84.85%, Throughput=0.1515 at 1744312293.4363613
+2025-04-11 00:41:33,436 - INFO - Finished Intelligent at 1744312293.4368887
+2025-04-11 00:41:33,437 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:41:36,808 - DEBUG - Drawing bar chart with data: [7.6, 4.8, 1.0, 8.0, 4.8, 1.0, 2.2, 8.0]
+2025-04-11 00:41:36,929 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:41:36,930 - DEBUG - Drawing bar chart with data: [13.2, 10.4, 6.5, 13.6, 10.4, 6.5, 7.8, 13.6]
+2025-04-11 00:41:37,020 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:41:37,020 - DEBUG - Drawing bar chart with data: [84.84848484848484, 84.84848484848484, 55.00000000000001, 84.84848484848484, 84.84848484848484, 55.00000000000001, 100.0, 84.84848484848484]
+2025-04-11 00:41:37,110 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:41:37,111 - DEBUG - Drawing bar chart with data: [0.15151515151515152, 0.15151515151515152, 0.1, 0.15151515151515152, 0.15151515151515152, 0.1, 0.17857142857142858, 0.15151515151515152]
+2025-04-11 00:41:37,232 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:52:30,710 - INFO - Starting comparison with 10 processes, quantum=2, cores=1
+2025-04-11 00:52:30,711 - INFO - Starting FCFS at 1744312950.7111595
+2025-04-11 00:52:30,711 - INFO - Completed FCFS: Avg Wait=22.30, Avg Turn=27.80, CPU Util=100.00%, Throughput=0.1818 at 1744312950.7115324
+2025-04-11 00:52:30,713 - INFO - Finished FCFS at 1744312950.7131808
+2025-04-11 00:52:30,713 - INFO - Starting SJF-NP at 1744312950.7135818
+2025-04-11 00:52:30,714 - INFO - Completed SJF (Non-Preemptive): Avg Wait=13.70, Avg Turn=19.20, CPU Util=100.00%, Throughput=0.1818 at 1744312950.7139788
+2025-04-11 00:52:30,714 - INFO - Finished SJF-NP at 1744312950.7143736
+2025-04-11 00:52:30,714 - INFO - Starting SJF-P at 1744312950.7147043
+2025-04-11 00:52:30,715 - INFO - Completed SJF (Preemptive): Avg Wait=0.50, Avg Turn=3.50, CPU Util=37.50%, Throughput=0.1250 at 1744312950.7151124
+2025-04-11 00:52:30,715 - INFO - Finished SJF-P at 1744312950.7158113
+2025-04-11 00:52:30,716 - INFO - Starting RR at 1744312950.7161405
+2025-04-11 00:52:30,716 - INFO - Completed Round Robin: Avg Wait=27.30, Avg Turn=32.80, CPU Util=100.00%, Throughput=0.1818 at 1744312950.7165258
+2025-04-11 00:52:30,717 - INFO - Finished RR at 1744312950.7173145
+2025-04-11 00:52:30,718 - INFO - Starting PR-NP at 1744312950.7180498
+2025-04-11 00:52:30,718 - INFO - Completed Priority (Non-Preemptive): Avg Wait=20.10, Avg Turn=25.60, CPU Util=100.00%, Throughput=0.1818 at 1744312950.7186606
+2025-04-11 00:52:30,719 - INFO - Finished PR-NP at 1744312950.7191606
+2025-04-11 00:52:30,720 - INFO - Starting PR-P at 1744312950.7200255
+2025-04-11 00:52:30,720 - INFO - Completed Priority (Preemptive): Avg Wait=1.00, Avg Turn=4.00, CPU Util=37.50%, Throughput=0.1250 at 1744312950.7207553
+2025-04-11 00:52:30,721 - INFO - Finished PR-P at 1744312950.7216055
+2025-04-11 00:52:30,722 - INFO - Starting MLFQ at 1744312950.7226052
+2025-04-11 00:52:30,725 - INFO - Completed MLFQ: Avg Wait=24.90, Avg Turn=30.40, CPU Util=100.00%, Throughput=0.1818 at 1744312950.7256064
+2025-04-11 00:52:30,726 - INFO - Finished MLFQ at 1744312950.7261252
+2025-04-11 00:52:30,726 - INFO - Starting Intelligent at 1744312950.726539
+2025-04-11 00:52:30,726 - INFO - Completed Intelligent (RR): Avg Wait=27.30, Avg Turn=32.80, CPU Util=100.00%, Throughput=0.1818 at 1744312950.726931
+2025-04-11 00:52:30,728 - INFO - Finished Intelligent at 1744312950.728107
+2025-04-11 00:52:30,728 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 00:52:32,423 - DEBUG - Drawing bar chart with data: [22.3, 13.7, 0.5, 27.3, 20.1, 1.0, 24.9, 27.3]
+2025-04-11 00:52:32,544 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:52:32,544 - DEBUG - Drawing bar chart with data: [27.8, 19.2, 3.5, 32.8, 25.6, 4.0, 30.4, 32.8]
+2025-04-11 00:52:32,625 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:52:32,626 - DEBUG - Drawing bar chart with data: [100.0, 100.0, 37.5, 100.0, 100.0, 37.5, 100.0, 100.0]
+2025-04-11 00:52:32,710 - DEBUG - Bar chart drawn successfully
+2025-04-11 00:52:32,710 - DEBUG - Drawing bar chart with data: [0.18181818181818182, 0.18181818181818182, 0.125, 0.18181818181818182, 0.18181818181818182, 0.125, 0.18181818181818182, 0.18181818181818182]
+2025-04-11 00:52:32,815 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:04:27,421 - INFO - Starting comparison with 10 processes, quantum=2, cores=1
+2025-04-11 11:04:27,422 - INFO - Starting FCFS at 1744349667.4228756
+2025-04-11 11:04:27,423 - INFO - Completed FCFS: Avg Wait=22.50, Avg Turn=28.30, CPU Util=100.00%, Throughput=0.1724 at 1744349667.4232433
+2025-04-11 11:04:27,424 - INFO - Finished FCFS at 1744349667.4245942
+2025-04-11 11:04:27,425 - INFO - Starting SJF-NP at 1744349667.425006
+2025-04-11 11:04:27,425 - INFO - Completed SJF (Non-Preemptive): Avg Wait=14.20, Avg Turn=20.00, CPU Util=100.00%, Throughput=0.1724 at 1744349667.4257836
+2025-04-11 11:04:27,426 - INFO - Finished SJF-NP at 1744349667.426402
+2025-04-11 11:04:27,426 - INFO - Starting SJF-P at 1744349667.4267414
+2025-04-11 11:04:27,427 - INFO - Completed SJF (Preemptive): Avg Wait=0.33, Avg Turn=2.33, CPU Util=40.00%, Throughput=0.2000 at 1744349667.4274683
+2025-04-11 11:04:27,428 - INFO - Finished SJF-P at 1744349667.4282827
+2025-04-11 11:04:27,428 - INFO - Starting RR at 1744349667.428642
+2025-04-11 11:04:27,429 - INFO - Completed Round Robin: Avg Wait=28.30, Avg Turn=34.10, CPU Util=100.00%, Throughput=0.1724 at 1744349667.4293847
+2025-04-11 11:04:27,430 - INFO - Finished RR at 1744349667.4305074
+2025-04-11 11:04:27,431 - INFO - Starting PR-NP at 1744349667.4316943
+2025-04-11 11:04:27,432 - INFO - Completed Priority (Non-Preemptive): Avg Wait=18.70, Avg Turn=24.50, CPU Util=100.00%, Throughput=0.1724 at 1744349667.432411
+2025-04-11 11:04:27,433 - INFO - Finished PR-NP at 1744349667.433378
+2025-04-11 11:04:27,434 - INFO - Starting PR-P at 1744349667.434787
+2025-04-11 11:04:27,435 - INFO - Completed Priority (Preemptive): Avg Wait=0.33, Avg Turn=2.33, CPU Util=40.00%, Throughput=0.2000 at 1744349667.4355614
+2025-04-11 11:04:27,436 - INFO - Finished PR-P at 1744349667.4362402
+2025-04-11 11:04:27,436 - INFO - Starting MLFQ at 1744349667.4367826
+2025-04-11 11:04:27,439 - INFO - Completed MLFQ: Avg Wait=29.60, Avg Turn=35.40, CPU Util=100.00%, Throughput=0.1724 at 1744349667.439857
+2025-04-11 11:04:27,440 - INFO - Finished MLFQ at 1744349667.4407876
+2025-04-11 11:04:27,441 - INFO - Starting Intelligent at 1744349667.4412267
+2025-04-11 11:04:27,441 - INFO - Completed Intelligent (RR): Avg Wait=28.30, Avg Turn=34.10, CPU Util=100.00%, Throughput=0.1724 at 1744349667.4416218
+2025-04-11 11:04:27,442 - INFO - Finished Intelligent at 1744349667.442689
+2025-04-11 11:04:27,443 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 11:04:33,345 - DEBUG - Drawing bar chart with data: [22.5, 14.2, 0.3333333333333333, 28.3, 18.7, 0.3333333333333333, 29.6, 28.3]
+2025-04-11 11:04:33,490 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:04:33,491 - DEBUG - Drawing bar chart with data: [28.3, 20.0, 2.3333333333333335, 34.1, 24.5, 2.3333333333333335, 35.4, 34.1]
+2025-04-11 11:04:33,583 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:04:33,584 - DEBUG - Drawing bar chart with data: [100.0, 100.0, 40.0, 100.0, 100.0, 40.0, 100.0, 100.0]
+2025-04-11 11:04:33,675 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:04:33,676 - DEBUG - Drawing bar chart with data: [0.1724137931034483, 0.1724137931034483, 0.2, 0.1724137931034483, 0.1724137931034483, 0.2, 0.1724137931034483, 0.1724137931034483]
+2025-04-11 11:04:33,775 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:13:10,799 - INFO - Starting comparison with 12 processes, quantum=2, cores=1
+2025-04-11 11:13:10,800 - INFO - Starting FCFS at 1744350190.8002465
+2025-04-11 11:13:10,800 - INFO - Completed FCFS: Avg Wait=31.58, Avg Turn=38.17, CPU Util=100.00%, Throughput=0.1519 at 1744350190.8006153
+2025-04-11 11:13:10,801 - INFO - Finished FCFS at 1744350190.8017583
+2025-04-11 11:13:10,802 - INFO - Starting SJF-NP at 1744350190.8021312
+2025-04-11 11:13:10,802 - INFO - Completed SJF (Non-Preemptive): Avg Wait=23.75, Avg Turn=30.33, CPU Util=100.00%, Throughput=0.1519 at 1744350190.802514
+2025-04-11 11:13:10,803 - INFO - Finished SJF-NP at 1744350190.8030488
+2025-04-11 11:13:10,803 - INFO - Starting SJF-P at 1744350190.8033879
+2025-04-11 11:13:10,803 - INFO - Completed SJF (Preemptive): Avg Wait=2.50, Avg Turn=8.00, CPU Util=52.38%, Throughput=0.0952 at 1744350190.803849
+2025-04-11 11:13:10,804 - INFO - Finished SJF-P at 1744350190.804543
+2025-04-11 11:13:10,805 - INFO - Starting RR at 1744350190.8050208
+2025-04-11 11:13:10,805 - INFO - Completed Round Robin: Avg Wait=44.50, Avg Turn=51.08, CPU Util=100.00%, Throughput=0.1519 at 1744350190.805362
+2025-04-11 11:13:10,805 - INFO - Finished RR at 1744350190.8058717
+2025-04-11 11:13:10,806 - INFO - Starting PR-NP at 1744350190.8063445
+2025-04-11 11:13:10,807 - INFO - Completed Priority (Non-Preemptive): Avg Wait=34.58, Avg Turn=41.17, CPU Util=100.00%, Throughput=0.1519 at 1744350190.8074238
+2025-04-11 11:13:10,808 - INFO - Finished PR-NP at 1744350190.8082373
+2025-04-11 11:13:10,808 - INFO - Starting PR-P at 1744350190.8087475
+2025-04-11 11:13:10,809 - INFO - Completed Priority (Preemptive): Avg Wait=3.00, Avg Turn=8.50, CPU Util=52.38%, Throughput=0.0952 at 1744350190.8093877
+2025-04-11 11:13:10,810 - INFO - Finished PR-P at 1744350190.8101285
+2025-04-11 11:13:10,813 - INFO - Starting MLFQ at 1744350190.8138025
+2025-04-11 11:13:10,818 - INFO - Completed MLFQ: Avg Wait=43.25, Avg Turn=49.83, CPU Util=100.00%, Throughput=0.1519 at 1744350190.8183117
+2025-04-11 11:13:10,818 - INFO - Finished MLFQ at 1744350190.8188367
+2025-04-11 11:13:10,819 - INFO - Starting Intelligent at 1744350190.8191092
+2025-04-11 11:13:10,819 - INFO - Completed Intelligent (RR): Avg Wait=44.50, Avg Turn=51.08, CPU Util=100.00%, Throughput=0.1519 at 1744350190.8194942
+2025-04-11 11:13:10,820 - INFO - Finished Intelligent at 1744350190.8205307
+2025-04-11 11:13:10,822 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (RR)']
+2025-04-11 11:13:14,332 - DEBUG - Drawing bar chart with data: [31.583333333333332, 23.75, 2.5, 44.5, 34.583333333333336, 3.0, 43.25, 44.5]
+2025-04-11 11:13:14,457 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:13:14,457 - DEBUG - Drawing bar chart with data: [38.166666666666664, 30.333333333333332, 8.0, 51.083333333333336, 41.166666666666664, 8.5, 49.833333333333336, 51.083333333333336]
+2025-04-11 11:13:14,551 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:13:14,551 - DEBUG - Drawing bar chart with data: [100.0, 100.0, 52.38095238095239, 100.0, 100.0, 52.38095238095239, 100.0, 100.0]
+2025-04-11 11:13:14,641 - DEBUG - Bar chart drawn successfully
+2025-04-11 11:13:14,641 - DEBUG - Drawing bar chart with data: [0.1518987341772152, 0.1518987341772152, 0.09523809523809523, 0.1518987341772152, 0.1518987341772152, 0.09523809523809523, 0.1518987341772152, 0.1518987341772152]
+2025-04-11 11:13:14,734 - DEBUG - Bar chart drawn successfully
+2025-04-11 14:45:07,638 - INFO - Starting comparison with 7 processes, quantum=2, cores=1
+2025-04-11 14:45:07,639 - INFO - Starting FCFS at 1744362907.6397731
+2025-04-11 14:45:07,640 - INFO - Completed FCFS: Avg Wait=7.29, Avg Turn=11.43, CPU Util=100.00%, Throughput=0.2414 at 1744362907.6401489
+2025-04-11 14:45:07,640 - INFO - Finished FCFS at 1744362907.6406808
+2025-04-11 14:45:07,640 - INFO - Starting SJF-NP at 1744362907.6409652
+2025-04-11 14:45:07,641 - INFO - Completed SJF (Non-Preemptive): Avg Wait=3.71, Avg Turn=7.86, CPU Util=100.00%, Throughput=0.2414 at 1744362907.6412814
+2025-04-11 14:45:07,641 - INFO - Finished SJF-NP at 1744362907.64176
+2025-04-11 14:45:07,642 - INFO - Starting SJF-P at 1744362907.6421502
+2025-04-11 14:45:07,642 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=2.75, CPU Util=68.75%, Throughput=0.2500 at 1744362907.642555
+2025-04-11 14:45:07,643 - INFO - Finished SJF-P at 1744362907.6430771
+2025-04-11 14:45:07,643 - INFO - Starting RR at 1744362907.6433833
+2025-04-11 14:45:07,643 - INFO - Completed Round Robin: Avg Wait=6.86, Avg Turn=11.00, CPU Util=100.00%, Throughput=0.2414 at 1744362907.643727
+2025-04-11 14:45:07,644 - INFO - Finished RR at 1744362907.6442275
+2025-04-11 14:45:07,644 - INFO - Starting PR-NP at 1744362907.6445594
+2025-04-11 14:45:07,645 - INFO - Completed Priority (Non-Preemptive): Avg Wait=7.00, Avg Turn=11.14, CPU Util=100.00%, Throughput=0.2414 at 1744362907.645377
+2025-04-11 14:45:07,645 - INFO - Finished PR-NP at 1744362907.6459174
+2025-04-11 14:45:07,646 - INFO - Starting PR-P at 1744362907.6463325
+2025-04-11 14:45:07,647 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=2.75, CPU Util=68.75%, Throughput=0.2500 at 1744362907.6472507
+2025-04-11 14:45:07,649 - INFO - Finished PR-P at 1744362907.6490595
+2025-04-11 14:45:07,649 - INFO - Starting MLFQ at 1744362907.6498792
+2025-04-11 14:45:07,653 - INFO - Completed MLFQ: Avg Wait=7.57, Avg Turn=11.71, CPU Util=100.00%, Throughput=0.2414 at 1744362907.6536837
+2025-04-11 14:45:07,654 - INFO - Finished MLFQ at 1744362907.654672
+2025-04-11 14:45:07,655 - INFO - Starting Intelligent at 1744362907.655068
+2025-04-11 14:45:07,656 - INFO - Completed Intelligent (SJF-P): Avg Wait=0.00, Avg Turn=2.75, CPU Util=68.75%, Throughput=0.2500 at 1744362907.656111
+2025-04-11 14:45:07,660 - INFO - Finished Intelligent at 1744362907.6600993
+2025-04-11 14:45:07,660 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (SJF-P)']
+2025-04-11 14:45:13,475 - DEBUG - Drawing bar chart with data: [7.285714285714286, 3.7142857142857144, 0.0, 6.857142857142857, 7.0, 0.0, 7.571428571428571, 0.0]
+2025-04-11 14:45:13,601 - DEBUG - Bar chart drawn successfully
+2025-04-11 14:45:13,602 - DEBUG - Drawing bar chart with data: [11.428571428571429, 7.857142857142857, 2.75, 11.0, 11.142857142857142, 2.75, 11.714285714285714, 2.75]
+2025-04-11 14:45:13,688 - DEBUG - Bar chart drawn successfully
+2025-04-11 14:45:13,688 - DEBUG - Drawing bar chart with data: [100.0, 100.0, 68.75, 100.0, 100.0, 68.75, 100.0, 68.75]
+2025-04-11 14:45:13,772 - DEBUG - Bar chart drawn successfully
+2025-04-11 14:45:13,773 - DEBUG - Drawing bar chart with data: [0.2413793103448276, 0.2413793103448276, 0.25, 0.2413793103448276, 0.2413793103448276, 0.25, 0.2413793103448276, 0.25]
+2025-04-11 14:45:13,871 - DEBUG - Bar chart drawn successfully
+2025-04-11 15:56:32,024 - INFO - Starting comparison with 9 processes, quantum=2, cores=1
+2025-04-11 15:56:32,024 - INFO - Starting FCFS at 1744367192.0247972
+2025-04-11 15:56:32,025 - INFO - Completed FCFS: Avg Wait=7.78, Avg Turn=11.00, CPU Util=96.67%, Throughput=0.3000 at 1744367192.0251236
+2025-04-11 15:56:32,025 - INFO - Finished FCFS at 1744367192.025734
+2025-04-11 15:56:32,026 - INFO - Starting SJF-NP at 1744367192.0261178
+2025-04-11 15:56:32,026 - INFO - Completed SJF (Non-Preemptive): Avg Wait=5.67, Avg Turn=8.89, CPU Util=96.67%, Throughput=0.3000 at 1744367192.0264874
+2025-04-11 15:56:32,027 - INFO - Finished SJF-NP at 1744367192.0272858
+2025-04-11 15:56:32,027 - INFO - Starting SJF-P at 1744367192.0276372
+2025-04-11 15:56:32,028 - INFO - Completed SJF (Preemptive): Avg Wait=0.33, Avg Turn=2.33, CPU Util=42.86%, Throughput=0.2143 at 1744367192.0279913
+2025-04-11 15:56:32,028 - INFO - Finished SJF-P at 1744367192.0285382
+2025-04-11 15:56:32,028 - INFO - Starting RR at 1744367192.0288663
+2025-04-11 15:56:32,029 - INFO - Completed Round Robin: Avg Wait=8.22, Avg Turn=11.44, CPU Util=96.67%, Throughput=0.3000 at 1744367192.0292008
+2025-04-11 15:56:32,029 - INFO - Finished RR at 1744367192.029883
+2025-04-11 15:56:32,030 - INFO - Starting PR-NP at 1744367192.030234
+2025-04-11 15:56:32,030 - INFO - Completed Priority (Non-Preemptive): Avg Wait=8.78, Avg Turn=12.00, CPU Util=96.67%, Throughput=0.3000 at 1744367192.0306044
+2025-04-11 15:56:32,031 - INFO - Finished PR-NP at 1744367192.0316224
+2025-04-11 15:56:32,032 - INFO - Starting PR-P at 1744367192.0322764
+2025-04-11 15:56:32,033 - INFO - Completed Priority (Preemptive): Avg Wait=0.33, Avg Turn=2.33, CPU Util=42.86%, Throughput=0.2143 at 1744367192.0329726
+2025-04-11 15:56:32,034 - INFO - Finished PR-P at 1744367192.03412
+2025-04-11 15:56:32,034 - INFO - Starting MLFQ at 1744367192.0347483
+2025-04-11 15:56:32,038 - INFO - Completed MLFQ: Avg Wait=7.00, Avg Turn=10.22, CPU Util=100.00%, Throughput=0.3103 at 1744367192.0379696
+2025-04-11 15:56:32,038 - INFO - Finished MLFQ at 1744367192.0385957
+2025-04-11 15:56:32,039 - INFO - Starting Intelligent at 1744367192.0391533
+2025-04-11 15:56:32,039 - INFO - Completed Intelligent (SJF-P): Avg Wait=0.33, Avg Turn=2.33, CPU Util=42.86%, Throughput=0.2143 at 1744367192.0397623
+2025-04-11 15:56:32,040 - INFO - Finished Intelligent at 1744367192.0406213
+2025-04-11 15:56:32,041 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (SJF-P)']
+2025-04-11 15:57:07,673 - DEBUG - Drawing bar chart with data: [7.777777777777778, 5.666666666666667, 0.3333333333333333, 8.222222222222221, 8.777777777777779, 0.3333333333333333, 7.0, 0.3333333333333333]
+2025-04-11 15:57:07,799 - DEBUG - Bar chart drawn successfully
+2025-04-11 15:57:07,800 - DEBUG - Drawing bar chart with data: [11.0, 8.88888888888889, 2.3333333333333335, 11.444444444444445, 12.0, 2.3333333333333335, 10.222222222222221, 2.3333333333333335]
+2025-04-11 15:57:07,889 - DEBUG - Bar chart drawn successfully
+2025-04-11 15:57:07,889 - DEBUG - Drawing bar chart with data: [96.66666666666667, 96.66666666666667, 42.857142857142854, 96.66666666666667, 96.66666666666667, 42.857142857142854, 100.0, 42.857142857142854]
+2025-04-11 15:57:07,980 - DEBUG - Bar chart drawn successfully
+2025-04-11 15:57:07,981 - DEBUG - Drawing bar chart with data: [0.3, 0.3, 0.21428571428571427, 0.3, 0.3, 0.21428571428571427, 0.3103448275862069, 0.21428571428571427]
+2025-04-11 15:57:08,070 - DEBUG - Bar chart drawn successfully
+2025-04-14 22:26:10,579 - INFO - Starting comparison with 4 processes, quantum=2, cores=1
+2025-04-14 22:26:10,581 - INFO - Starting FCFS at 1744649770.5809765
+2025-04-14 22:26:10,581 - INFO - Completed FCFS: Avg Wait=1.25, Avg Turn=6.25, CPU Util=86.96%, Throughput=0.1739 at 1744649770.5814724
+2025-04-14 22:26:10,582 - INFO - Finished FCFS at 1744649770.582018
+2025-04-14 22:26:10,582 - INFO - Starting SJF-NP at 1744649770.5824318
+2025-04-14 22:26:10,582 - INFO - Completed SJF (Non-Preemptive): Avg Wait=1.25, Avg Turn=6.25, CPU Util=86.96%, Throughput=0.1739 at 1744649770.582748
+2025-04-14 22:26:10,583 - INFO - Finished SJF-NP at 1744649770.5831974
+2025-04-14 22:26:10,583 - INFO - Starting SJF-P at 1744649770.5835614
+2025-04-14 22:26:10,583 - INFO - Completed SJF (Preemptive): Avg Wait=0.00, Avg Turn=4.67, CPU Util=77.78%, Throughput=0.1667 at 1744649770.5839334
+2025-04-14 22:26:10,584 - INFO - Finished SJF-P at 1744649770.5845208
+2025-04-14 22:26:10,584 - INFO - Starting RR at 1744649770.5847397
+2025-04-14 22:26:10,585 - INFO - Completed Round Robin: Avg Wait=1.75, Avg Turn=6.75, CPU Util=86.96%, Throughput=0.1739 at 1744649770.5851114
+2025-04-14 22:26:10,585 - INFO - Finished RR at 1744649770.585664
+2025-04-14 22:26:10,585 - INFO - Starting PR-NP at 1744649770.5859344
+2025-04-14 22:26:10,586 - INFO - Completed Priority (Non-Preemptive): Avg Wait=1.25, Avg Turn=6.25, CPU Util=86.96%, Throughput=0.1739 at 1744649770.5862753
+2025-04-14 22:26:10,586 - INFO - Finished PR-NP at 1744649770.586749
+2025-04-14 22:26:10,587 - INFO - Starting PR-P at 1744649770.587086
+2025-04-14 22:26:10,587 - INFO - Completed Priority (Preemptive): Avg Wait=0.00, Avg Turn=4.67, CPU Util=77.78%, Throughput=0.1667 at 1744649770.5875
+2025-04-14 22:26:10,587 - INFO - Finished PR-P at 1744649770.5879128
+2025-04-14 22:26:10,588 - INFO - Starting MLFQ at 1744649770.5881999
+2025-04-14 22:26:10,589 - INFO - Completed MLFQ: Avg Wait=0.50, Avg Turn=5.50, CPU Util=100.00%, Throughput=0.2000 at 1744649770.5893326
+2025-04-14 22:26:10,589 - INFO - Finished MLFQ at 1744649770.5896537
+2025-04-14 22:26:10,589 - INFO - Starting Intelligent at 1744649770.589844
+2025-04-14 22:26:10,590 - INFO - Completed Intelligent (SJF-P): Avg Wait=0.00, Avg Turn=4.67, CPU Util=77.78%, Throughput=0.1667 at 1744649770.5900264
+2025-04-14 22:26:10,590 - INFO - Finished Intelligent at 1744649770.5908334
+2025-04-14 22:26:10,591 - INFO - Comparison results: ['FCFS', 'SJF (Non-Preemptive)', 'SJF (Preemptive)', 'Round Robin', 'Priority (Non-Preemptive)', 'Priority (Preemptive)', 'MLFQ', 'Intelligent (SJF-P)']
+2025-04-14 22:26:13,050 - DEBUG - Drawing bar chart with data: [1.25, 1.25, 0.0, 1.75, 1.25, 0.0, 0.5, 0.0]
+2025-04-14 22:26:13,122 - DEBUG - Bar chart drawn successfully
+2025-04-14 22:26:13,122 - DEBUG - Drawing bar chart with data: [6.25, 6.25, 4.666666666666667, 6.75, 6.25, 4.666666666666667, 5.5, 4.666666666666667]
+2025-04-14 22:26:13,174 - DEBUG - Bar chart drawn successfully
+2025-04-14 22:26:13,174 - DEBUG - Drawing bar chart with data: [86.95652173913044, 86.95652173913044, 77.77777777777779, 86.95652173913044, 86.95652173913044, 77.77777777777779, 100.0, 77.77777777777779]
+2025-04-14 22:26:13,226 - DEBUG - Bar chart drawn successfully
+2025-04-14 22:26:13,226 - DEBUG - Drawing bar chart with data: [0.17391304347826086, 0.17391304347826086, 0.16666666666666666, 0.17391304347826086, 0.17391304347826086, 0.16666666666666666, 0.2, 0.16666666666666666]
+2025-04-14 22:26:13,284 - DEBUG - Bar chart drawn successfully
